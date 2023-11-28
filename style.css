@@ -69,5 +69,10 @@ a{
 footer{
     display: flex;
     justify-content: center;
-    background-color: lightgrey;
+    background-color: lightgrey;    justify-content: space-around;
+}
+ul{
+    display: flex;
+    flex-direction: column;
+
 }
